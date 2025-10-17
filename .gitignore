@@ -1,0 +1,16 @@
+*.jou
+*.log
+*.str
+*.html
+*.xml
+*.ltx
+*.bit
+*.bin
+*.vcd
+*.wdb
+
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
