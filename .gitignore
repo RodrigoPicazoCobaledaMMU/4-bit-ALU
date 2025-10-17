@@ -9,8 +9,8 @@
 *.vcd
 *.wdb
 
-.cache/
-.hw/
-.ip_user_files/
-.sim/
-.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
